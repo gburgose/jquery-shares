@@ -1,7 +1,7 @@
 {
-  "name": "jquery-formulator",
+  "name": "jquery-shares",
   "description": "",
-  "main": "dist/jquery.formulator.js",
+  "main": "dist/jquery.shares.js",
   "moduleType": [ "globals", "amd", "node" ],
   "license": "MIT",
   "ignore": [
@@ -12,9 +12,9 @@
   "keywords": [
     "jquery",
     "jquery-plugin",
-    "forms",
-    "validation",
-    "validate"
+    "shares",
+    "facebook",
+    "twitter"
   ],
   "authors": [
     { "name": "Gabriel Burgos" },
@@ -22,14 +22,12 @@
     { "name": "Giuseppe Magnani" },
     { "name": "Fabián Zurita" }
   ],
-  "homepage": "https://github.com/gburgose/jquery-formulator",
+  "homepage": "https://github.com/gburgose/jquery-shares",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gburgose/jquery-formulator.git"
+    "url": "https://github.com/gburgose/jquery-shares.git"
   },
   "dependencies": {
-    "jquery": "3.2.0",
-    "jquery-form": "4.2.0",
-    "jquery-validation": "1.16.0"
+    "jquery": "3.2.0"
   }
 }
