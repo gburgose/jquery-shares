@@ -1,0 +1,35 @@
+{
+  "name": "jquery-formulator",
+  "description": "",
+  "main": "dist/jquery.formulator.js",
+  "moduleType": [ "globals", "amd", "node" ],
+  "license": "MIT",
+  "ignore": [
+    "README.md",
+    "composer.json",
+    "package.json"
+  ],
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "forms",
+    "validation",
+    "validate"
+  ],
+  "authors": [
+    { "name": "Gabriel Burgos" },
+    { "name": "Felipe Parada" },
+    { "name": "Giuseppe Magnani" },
+    { "name": "Fabián Zurita" }
+  ],
+  "homepage": "https://github.com/gburgose/jquery-formulator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gburgose/jquery-formulator.git"
+  },
+  "dependencies": {
+    "jquery": "3.2.0",
+    "jquery-form": "4.2.0",
+    "jquery-validation": "1.16.0"
+  }
+}
