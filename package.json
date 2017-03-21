@@ -1,0 +1,61 @@
+{
+  "name": "jquery-shares",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/jquery.shares.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack --progress --hide-modules",
+    "watch": "cross-env NODE_ENV=development webpack --watch --progress --hide-modules",
+    "hot": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
+    "production": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "files": [
+    "dist/jquery.shares.js",
+    "dist/jquery.shares.min.js",
+    "dist/jquery.shares.pkg.min.js"
+  ],
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "shares",
+    "facebook",
+    "twitter"
+  ],
+  "author": "Gabriel Burgos",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "3.2.0"
+  },
+  "contributors": [
+    { "name": "Gabriel Burgos", "email": "hola@gabrielburgos.cl" },
+    { "name": "Felipe Parada" },
+    { "name": "Giuseppe Magnani" },
+    { "name": "Fabián Zurita" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gburgose/jquery-shares.git"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-add-src": "^0.2.0",
+    "gulp-beautify": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.2",
+    "jquery": "^3.2.1",
+    "jquery-form": "^4.2.0",
+    "jquery-validation": "^1.16.0",
+    "jquery.rut": "^1.1.2",
+    "laravel-mix": "^0.8.8",
+    "sweetalert": "^1.1.3"
+  }
+}
