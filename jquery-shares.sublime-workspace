@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-bottom"
+			],
+			[
 				"back",
 				"background-color"
 			],
@@ -26,10 +30,6 @@
 			[
 				"tex",
 				"text-align"
-			],
-			[
-				"mar",
-				"margin-top"
 			],
 			[
 				"text",
@@ -116,6 +116,19 @@
 	},
 	"file_history":
 	[
+		"/Users/gabrielburgos/Developer/jquery-shares/package.json",
+		"/Users/gabrielburgos/Developer/jquery-shares/bower.json",
+		"/Users/gabrielburgos/Developer/jquery-shares/resources/plugin/js/main.js",
+		"/Users/gabrielburgos/Developer/jquery-shares/resources/sample/sass/main.scss",
+		"/Users/gabrielburgos/Developer/jquery-shares/public/index.php",
+		"/Users/gabrielburgos/Developer/jquery-shares/resources/sample/js/main.js",
+		"/Users/gabrielburgos/Developer/jquery-shares/dist/jquery.shares.js",
+		"/Users/gabrielburgos/Developer/jquery-shares/dist/jquery.shares.min.js",
+		"/Users/gabrielburgos/Developer/jquery-shares/public/assets/css/sample.css",
+		"/Users/gabrielburgos/Developer/jquery-shares/webpack.mix.js",
+		"/Users/gabrielburgos/Developer/jquery-shares/webpack.config.js",
+		"/Users/gabrielburgos/Developer/jquery-shares/jquery-shares.sublime-project",
+		"/Users/gabrielburgos/Developer/jquery-shares/node_modules/fontawesome/generate.js",
 		"/Users/gabrielburgos/Developer/clanstudio/webpack.mix.js",
 		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/vendor.scss",
 		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/js/app.js",
@@ -230,20 +243,7 @@
 		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/dist/js/vendor.min.js",
 		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/site/header.blade.php",
 		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/site/footer.blade.php",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/welcome.php",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/routes.php",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/home.blade.php",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/sections/.gitkeep",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/templates/.gitkeep",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/config/theme.config.php",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/package.json",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/dist/js/theme.min.js",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/bower.json",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/.gitignore",
-		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/assets/js/theme.js",
-		"/Users/gabrielburgos/Developer/themosis-base/.env.local",
-		"/Users/gabrielburgos/Developer/themosis-base/config/environment.php",
-		"/Users/gabrielburgos/Developer/themosis-base/.gitignore"
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/welcome.php"
 	],
 	"find":
 	{
@@ -264,6 +264,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"constructor",
+			"./",
+			"publi",
+			"public",
 			"dist",
 			"/public",
 			"resources/",
@@ -430,6 +434,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 368.0,
+	"side_bar_width": 367.0,
 	"status_bar_visible": true
 }
