@@ -17,7 +17,7 @@ var gulp   = require('gulp'),
 gulp.task('default', function() {
   gulp.src(['./resources/plugin/js/main.js'])
     // normal
-    .pipe(concat('dist/jquery.shares.js'))
+    .pipe(concat('dist/jquery.formulator.js'))
     .pipe(beautify({indent_size: 2}))
     .pipe(gulp.dest('.'))
     // min
@@ -27,22 +27,23 @@ gulp.task('default', function() {
 });
 
 jsDependecies = [
+  './node_modules/jquery-form/src/jquery.form.js',
+  './node_modules/jquery-validation/dist/jquery.validate.js',
+  './node_modules/jquery-validation/dist/additional-methods.js',
+  './node_modules/jquery.rut/jquery.rut.js'
 ];
 
 gulp.task('package', function() {
   gulp.src(['./resources/plugin/js/main.js'])
-    // normal
     .pipe(addsrc.prepend( jsDependecies ))
-    .pipe(beautify({indent_size: 2}))
-    .pipe(concat('dist/jquery.shares.pkg.js'))
-    // min
     .pipe(uglify({ preserveComments: false }))
     .pipe(rename({ suffix : '.min' }))
+    .pipe(concat('dist/jquery.formulator.pkg.js'))
     .pipe(gulp.dest('.'));
 });
 
 gulp.task('build',['default', 'package']);
 
 gulp.task('watch', function () {
-  gulp.watch('src/jquery.shares.js', ['default']);
+  gulp.watch('src/jquery.formulator.js', ['default']);
 });

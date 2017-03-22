@@ -3,13 +3,25 @@
 <head>
 	<meta charset="UTF-8">
 	<title>jQuery Shares</title>
-	<link type="text/css" rel="stylesheet" href="./assets/css/sample.css">
-	<script src="./assets/js/sample.js"></script>
+	<link type="text/css" rel="stylesheet" href="./assets/css/sample.css?v=<?php echo rand(1,1000); ?>">
+	<script src="./assets/js/sample.js?v=<?php echo rand(1,1000); ?>"></script>
 </head>
 <body>
-	<a href="https://www.facebook.com" data-text="Sample text" class="share facebook"><i class="fa fa-facebook"></i> Facebook</a>
-	<a href="https://www.facebook.com" data-text="Sample text" class="share twitter"><i class="fa fa-twitter"></i> Twitter</a>
-	<a href="https://www.facebook.com" data-text="Sample text" class="share linkedin"><i class="fa fa-linkedin"></i>Linkedin</a>
-	<a href="https://www.facebook.com" data-text="Sample text" class="share google-plus"><i class="fa fa-google-plus"></i> GooglePlus</a>
+
+	<div class="container">
+
+		<div class="links">
+			<h1>jQuery Shares</h1>
+			<a href="https://www.facebook.com" data-text="Sample text" class="share facebook"><i class="fa fa-facebook"></i></a>
+			<a href="https://www.facebook.com" data-text="Sample text" class="share twitter"><i class="fa fa-twitter"></i></a>
+			<a href="https://www.facebook.com" data-text="Sample text" class="share linkedin"><i class="fa fa-linkedin"></i></a>
+			<a href="https://www.facebook.com" data-text="Sample text" class="share google-plus"><i class="fa fa-google-plus"></i></a>
+		</div>
+
+	</div>
+
+	<script id="__bs_script__">//<![CDATA[document.write("<script async src='/browser-sync/browser-sync-client.js?v=2.18.8'><\/script>".replace("HOST", location.hostname));
+//]]></script>
+
 </body>
 </html>

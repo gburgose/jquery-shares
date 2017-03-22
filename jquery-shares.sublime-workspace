@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"coffee",
+				"Format: CoffeeScript"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gabrielburgos/Developer/clanstudio/webpack.mix.js",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/vendor.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/js/app.js",
+		"/Users/gabrielburgos/Developer/clanstudio/package.json",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/views/welcome.blade.php",
+		"/Users/gabrielburgos/Developer/clanstudio/node_modules/jquery/package.json",
+		"/Users/gabrielburgos/Developer/clanstudio/routes/web.php",
+		"/Users/gabrielburgos/Developer/clanstudio/Envoy.blade.php",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/temporal.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/app.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/views/temporal.blade.php",
+		"/Users/gabrielburgos/Developer/clanstudio/public/css/temporal.css",
+		"/Users/gabrielburgos/Developer/clanstudio/public/js/app.js",
+		"/Users/gabrielburgos/Developer/laravel-mix/package.json",
+		"/Users/gabrielburgos/Developer/mix-sample/package.json",
+		"/Users/gabrielburgos/Developer/mix-sample/webpack.config.js",
+		"/Users/gabrielburgos/Developer/mix-sample/webpack.mix.js",
+		"/Users/gabrielburgos/Developer/mix-sample/public/dist/app.js",
+		"/Users/gabrielburgos/Developer/clanstudio/_gulpfile.js",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/js/vendor.js",
+		"/Users/gabrielburgos/Developer/laravel-mix/resources/assets/js/app.js",
+		"/Users/gabrielburgos/Developer/laravel-mix/public/js/app.js",
+		"/Users/gabrielburgos/Developer/laravel-mix/node_modules/laravel-mix/setup/webpack.config.js",
+		"/Users/gabrielburgos/Developer/laravel-mix/public/css/app.css",
+		"/Users/gabrielburgos/Developer/clanstudio/public/css/app.css",
+		"/Users/gabrielburgos/Developer/clanstudio/public/mix-manifest.json",
+		"/Users/gabrielburgos/Developer/laravel-mix/mix-manifest.json",
+		"/Users/gabrielburgos/Developer/laravel-mix/public/index.html",
+		"/Users/gabrielburgos/Developer/laravel-mix/gulpfile.js",
+		"/Users/gabrielburgos/Developer/laravel-mix/app.scss",
+		"/Users/gabrielburgos/Developer/laravel-mix/webpack.mix.js",
+		"/Users/gabrielburgos/Developer/laravel-mix/resources/assets/sass/app.scss",
+		"/Users/gabrielburgos/Developer/laravel-mix/resources/sass",
+		"/Users/gabrielburgos/Developer/the-singular/workshop/coffee/app/form.coffee",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/js/app/forms.js",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/js/app/lines.js",
+		"/Users/gabrielburgos/Developer/clanstudio/gulpfile.js",
+		"/Users/gabrielburgos/Developer/the-singular/mockup/assets/dist/build.js",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/views/partials/lines.blade.php",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/site/button.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/section/contact.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/site/page.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/site/section.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/section/introduce.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/variables.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/app/Http/Controllers/Controller.php",
+		"/Users/gabrielburgos/Developer/clanstudio/.gitignore",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/views/partials/analytics.blade.php",
+		"/Users/gabrielburgos/Developer/clanstudio/.env",
+		"/Users/gabrielburgos/Developer/clanstudio/public/dist/js/app.js",
+		"/Users/gabrielburgos/Developer/clanstudio/.babelrc",
+		"/Users/gabrielburgos/Developer/clanstudio/public/home.php",
+		"/Users/gabrielburgos/Developer/clanstudio/public/index.php",
+		"/Users/gabrielburgos/Developer/_clanstudio/.gitignore",
+		"/Users/gabrielburgos/Developer/clanstudio/_public/home.php",
+		"/Users/gabrielburgos/Developer/_clanstudio/templates/index.phtml",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/site/header.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/base/keyframes.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/sections/introduce.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/public/dist/css/app.css",
+		"/Users/gabrielburgos/Developer/clanstudio/public/dist/css/vendor.css",
+		"/Users/gabrielburgos/Developer/clanstudio/webpack.config.js",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/base/background.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/base/wrapper.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/sass/site/footer.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/public/dist/css/app.min.css",
+		"/Users/gabrielburgos/Developer/clanstudio/assets/js/app.js",
+		"/Users/gabrielburgos/Developer/clanstudio/assets/sass/app.scss",
+		"/Users/gabrielburgos/Developer/clanstudio/assets/js/vendor.js",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/composer.json",
+		"/Users/gabrielburgos/Developer/clanstudio/index.php",
+		"/Users/gabrielburgos/Developer/clanstudio/htdocs/index.php",
+		"/Users/gabrielburgos/Developer/clanstudio/htdocs/.htaccess",
+		"/Users/gabrielburgos/Developer/clanstudio/artisan",
+		"/Users/gabrielburgos/Developer/clanstudio/composer.json",
+		"/Users/gabrielburgos/Developer/clanstudio/.env.example",
+		"/Users/gabrielburgos/Developer/clan-studio/Envoy.blade.php",
+		"/Users/gabrielburgos/Developer/clan-studio/phprc",
+		"/Users/gabrielburgos/Developer/clanstudio/config/environment.php",
+		"/Users/gabrielburgos/Developer/clanstudio/.env.local",
+		"/Users/gabrielburgos/Developer/clanstudio/.Envoy.blade.php.swp",
+		"/Users/gabrielburgos/Developer/clan-studio/README.md",
+		"/Users/gabrielburgos/Developer/clan-studio/composer.lock",
+		"/Users/gabrielburgos/Developer/clan-studio/phpunit.xml",
+		"/Users/gabrielburgos/Developer/clan-studio/.gitignore",
+		"/Users/gabrielburgos/clipboard.text",
+		"/Users/gabrielburgos/Developer/clan-studio/rsa_pub.key",
+		"/Users/gabrielburgos/Developer/clan-studio/config/shared.php",
+		"/Users/gabrielburgos/Developer/clan-studio/config/environment.php",
+		"/Users/gabrielburgos/Developer/clan-studio/.env.local",
+		"/Users/gabrielburgos/Developer/clan-studio/.env.staging",
+		"/Users/gabrielburgos/Developer/clan-studio/.env-stagins",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/webpack.config.js",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/assets/js/app.js",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/admin/hooks/emojis.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/assets/js/vendor.js",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/gulpfile.js",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/dist/js/vendor.js",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/dist/js/app.js",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/layouts/default.blade.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/admin/assets.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/admin/load.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/admin/acf/.gitkeep",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/admin/ajax/.gitkeep",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/admin/hooks/.gitkeep",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/admin/posts/.gitkeep",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/admin/actions.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/global/footer.blade.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/assets/sass/vendor.scss",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/assets/sass/screen.scss",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/dist/js/vendor.min.js",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/site/header.blade.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/site/footer.blade.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/welcome.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/routes.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/home.blade.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/sections/.gitkeep",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/views/templates/.gitkeep",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/resources/config/theme.config.php",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/package.json",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/dist/js/theme.min.js",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/bower.json",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/.gitignore",
+		"/Users/gabrielburgos/Developer/themosis-base/htdocs/content/themes/theme/assets/js/theme.js",
+		"/Users/gabrielburgos/Developer/themosis-base/.env.local",
+		"/Users/gabrielburgos/Developer/themosis-base/config/environment.php",
+		"/Users/gabrielburgos/Developer/themosis-base/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/gabrielburgos/Developer/themosis-base",
+			"/Users/gabrielburgos/Developer/adopamoshumanos/htdocs/content/themes/theme/assets",
+			"/Users/gabrielburgos/Developer/mysql"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dist",
+			"/public",
+			"resources/",
+			"dist",
+			"src",
+			"/js",
+			"webpack",
+			"app.form",
+			"form:",
+			"form",
+			"<div class=\"line-box\">\n						<span class=\"line line-first\"></span>\n						<span class=\"line line-second\"></span>\n						<span class=\"line line-third\"></span>\n						<span class=\"line line-quarter\"></span>\n						<span class=\"line line-fifth\"></span>\n					</div>",
+			" =",
+			"col-",
+			"class=\"col-lg-6\"",
+			"<input ",
+			"lg-2",
+			"form-control",
+			"firstname",
+			", , dirs.src",
+			", dirs.src + '/sass/vendor.scss'",
+			"Contactanos",
+			"nth",
+			"line",
+			"top",
+			"line",
+			"_",
+			"babelrc",
+			"<div class=\"inside inside-lines\">",
+			"1140",
+			"rand",
+			".css",
+			"container",
+			"<div class=\"container\">\n					<div class=\"row\">\n						<div class=\"col-md-12\">\n							ok\n						</div>\n					</div>\n				</div>",
+			"header",
+			"'/sass/*.scss'",
+			"app",
+			"header",
+			".min",
+			".css",
+			"link",
+			"assets",
+			"'",
+			"jquery",
+			"http://themosis.dev",
+			"/h",
+			"jQuery",
+			"window.",
+			"3000",
+			"var ",
+			"'),",
+			"dist/",
+			", '",
+			"build",
+			"app-",
+			"vendor",
+			"	",
+			"themosis-theme",
+			"jquery",
+			"theme",
+			"domain.tld",
+			"stylus",
+			"library",
+			"displa",
+			"media",
+			"..",
+			";",
+			"sass",
+			"'stylus'",
+			"bootstrap",
+			"cli",
+			"images",
+			"Uncomment",
+			"['AllowNoPassword']",
+			"http://domain.tld",
+			"vaca",
+			"Vaca",
+			"vaca",
+			"select#",
+			"select, ",
+			"input(type=\"text\", placeholder=\"¿Qué estás buscando?\")",
+			"language",
+			"a(href=\"index.html\") Esp",
+			"ENG",
+			"ESP",
+			"esp",
+			"-in-",
+			"50px",
+			"80px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 368.0,
+	"status_bar_visible": true
+}
