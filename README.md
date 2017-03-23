@@ -2,10 +2,25 @@
 
 ## Installation
 
+### NPM
+
 ```
 npm install jquery-shares --save-dev
 ```
 
+### Webpack
+
+```js
+require('jquery-shares');
+```
+
+### jQuery
+
+```js
+$(document).ready(function(){
+	$('a.share').shares();
+});
+```
 
 ## HOWTO
 
