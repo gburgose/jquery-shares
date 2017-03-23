@@ -1,6 +1,6 @@
 # jQuery Shares v1.0.2
 
-## HOWYO
+## HOWTO
 
 ### Facebook
 On facebook, you should only share the url.
