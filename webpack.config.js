@@ -299,10 +299,10 @@ if (Mix.browserSync) {
         new plugins.BrowserSyncPlugin(
             Object.assign({
                 host: 'localhost',
-                port: 3000,
+                port: 3101,
                 proxy: 'app.dev',
                 files: [
-                    'app/**/*.php',
+                    'public/**/*.php',
                     'resources/views/**/*.php',
                     'public/js/**/*.js',
                     'public/css/**/*.css'

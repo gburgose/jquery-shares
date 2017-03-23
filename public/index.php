@@ -12,10 +12,10 @@
 
 		<div class="links">
 			<h1>jQuery Shares</h1>
-			<a href="https://www.facebook.com" data-text="Sample text" class="share facebook"><i class="fa fa-facebook"></i></a>
-			<a href="https://www.facebook.com" data-text="Sample text" class="share twitter"><i class="fa fa-twitter"></i></a>
-			<a href="https://www.facebook.com" data-text="Sample text" class="share linkedin"><i class="fa fa-linkedin"></i></a>
-			<a href="https://www.facebook.com" data-text="Sample text" class="share google-plus"><i class="fa fa-google-plus"></i></a>
+			<a href="https://www.facebook.com" class="share facebook"><i class="fa fa-facebook"></i></a>
+			<a href="https://www.twitter.com" data-text="The best thing that can be shared is knowledge." class="share twitter"><i class="fa fa-twitter"></i></a>
+			<a href="https://www.linkedin.com" data-text="The best thing that can be shared is knowledge." class="share linkedin"><i class="fa fa-linkedin"></i></a>
+			<a href="https://plus.google.com/" class="share google-plus"><i class="fa fa-google-plus"></i></a>
 		</div>
 
 	</div>
