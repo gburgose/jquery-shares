@@ -4,6 +4,8 @@
 
 ```
 npm install jquery-shares --save-dev
+```
+
 
 ## HOWTO
 
