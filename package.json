@@ -1,6 +1,6 @@
 {
   "name": "jquery-shares",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/jquery.shares.js",
   "scripts": {
@@ -19,7 +19,9 @@
     "jquery-plugin",
     "shares",
     "facebook",
-    "twitter"
+    "twitter",
+    "linkedin",
+    "google-plus"
   ],
   "author": "Gabriel Burgos",
   "license": "MIT",

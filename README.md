@@ -1,4 +1,4 @@
-# jQuery Shares v1.0.2
+# jQuery Shares v1.0.3
 
 ## Installation
 
