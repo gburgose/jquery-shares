@@ -16,9 +16,9 @@ var removeEmptyLines  = require('gulp-remove-empty-lines');
 var beautify          = require('gulp-beautify');
 
 gulp.task('build', function() {
-	gulp.src(['./resources/plugin/js/main.js'])
+	gulp.src(['./src/js/jquery.shares.js'])
 		// normal
-		.pipe(concat('dist/jquery.shares.js'))
+		.pipe(concat('./dist/jquery.shares.js'))
 		.pipe(beautify({indent_size: 2}))
 		.pipe(removeEmptyLines({ removeComments: true }))
 		.pipe(gulp.dest('.'))
@@ -26,8 +26,4 @@ gulp.task('build', function() {
 		.pipe(uglify({ preserveComments: false }))
 		.pipe(rename({ suffix : '.min' }))
 		.pipe(gulp.dest('.'));
-});
-
-gulp.task('watch', function () {
-	gulp.watch('src/jquery.shares.js', ['build']);
 });
