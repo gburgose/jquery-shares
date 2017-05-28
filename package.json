@@ -1,18 +1,24 @@
 {
   "name": "jquery-shares",
   "version": "1.0.3",
-  "description": "",
+  "description": "The easy way to share urls in your web development.",
   "main": "dist/jquery.shares.js",
+  "engines": {
+    "node": "7.6.0",
+    "yarn": "0.21.3",
+    "npm": "4.5.0"
+  },
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --progress --hide-modules",
     "watch": "cross-env NODE_ENV=development webpack --watch --progress --hide-modules",
     "hot": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
-    "production": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+    "production": "cross-env NODE_ENV=production webpack --progress --hide-modules",
+    "prestart": "npm install",
+    "postinstall": "npm run development"
   },
   "files": [
     "dist/jquery.shares.js",
     "dist/jquery.shares.min.js",
-    "dist/jquery.shares.pkg.min.js"
   ],
   "keywords": [
     "jquery",

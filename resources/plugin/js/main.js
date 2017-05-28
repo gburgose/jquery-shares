@@ -10,7 +10,7 @@
 
 		var _type = share__defineType( $anchor );
 
-		var url = _type.url
+		var url = _type.url;
 
 		// CREATE URL
 		if ( _type.type !== "email" ){
