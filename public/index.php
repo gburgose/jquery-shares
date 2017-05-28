@@ -18,6 +18,9 @@
 		</div>
 	</div>
 
+	<div class="section section-howto">
+	</div>
+
 	<div class="container">
 
 		<div class="links">
@@ -65,7 +68,6 @@
 			</a>
 
 		</div>
-
 	</div>
 
 </body>
