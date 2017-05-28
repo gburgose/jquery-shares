@@ -62,6 +62,7 @@
     "gulp-add-src": "^0.2.0",
     "gulp-beautify": "^2.0.1",
     "gulp-concat": "^2.6.1",
+    "gulp-remove-empty-lines": "0.0.8",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^2.1.2",
     "jquery": "^3.2.1",
