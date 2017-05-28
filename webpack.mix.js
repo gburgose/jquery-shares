@@ -11,6 +11,7 @@ let mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/sample/js/main.js', 'public/assets/js/sample.js')
+mix.setPublicPath('public')
+   .js('resources/sample/js/main.js', 'public/assets/js/sample.js')
    .sass('resources/sample/sass/main.scss', 'public/assets/css/sample.css')
    .browserSync('jquery-shares.dev');
