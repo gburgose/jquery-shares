@@ -12,11 +12,12 @@
     "dev": "cross-env NODE_ENV=development webpack --progress --hide-modules",
     "watch": "cross-env NODE_ENV=development webpack --watch --progress --hide-modules",
     "hot": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
-    "production": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+    "production": "cross-env NODE_ENV=production webpack --progress --hide-modules",
+    "postinstall": "npm run development"
   },
   "files": [
     "dist/jquery.shares.js",
-    "dist/jquery.shares.min.js",
+    "dist/jquery.shares.min.js"
   ],
   "keywords": [
     "jquery",
