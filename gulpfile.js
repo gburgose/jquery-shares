@@ -3,7 +3,7 @@
 | Gulpfile
 |--------------------------------------------------------------------------
 |
-| buildfile for jquery.formulary plugin
+| buildfile for jquery.shares plugin
 |
 */
 
@@ -17,7 +17,7 @@ var beautify          = require('gulp-beautify');
 
 gulp.task('build', function() {
 	gulp.src(['./src/js/jquery.shares.js'])
-		// normal
+		// default
 		.pipe(concat('./dist/jquery.shares.js'))
 		.pipe(beautify({indent_size: 2}))
 		.pipe(removeEmptyLines({ removeComments: true }))
