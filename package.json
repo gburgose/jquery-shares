@@ -17,7 +17,7 @@
     "prod": "npm run production",
     "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
     "prestart": "npm install",
-    "postinstall": "npm run development"
+    "postinstall": "npm run production"
   },
   "files": [
     "dist/jquery.shares.js",
